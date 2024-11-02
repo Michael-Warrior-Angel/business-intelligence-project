@@ -114,7 +114,7 @@ Steps to Implement in Power BI:
 4.	Choose Tables: After the code is executed, choose the tables you need and load them. In our case, we choose both train_df or test_df tables and load them.
 
 
-The MNIST dataset contains 70,000 images (60,000 for training and 10,000 for testing), each of which is a 28x28 pixel grayscale image. These images are handwritten digits from (0-9). When flattened for analysis, each image has 784 features, which translates to a DataFrame with 784 columns.  
+As stated above, the MNIST dataset contains 70,000 images (60,000 for training and 10,000 for testing), each of which is a 28x28 pixel grayscale image. These images are handwritten digits from (0-9). When flattened for analysis, each image has 784 features, which translates to a DataFrame with 784 columns.  
 
 Important Note:
 In Power BI, using a sample of the MNIST dataset (e.g., 1,000 images instead of all 70,000) is practical because:
