@@ -14,7 +14,7 @@ Steps to Implement in Power BI:
 4.	Choose Tables: After the code is executed, choose the tables you need and load them. In our case, we choose both train_df or test_df tables and load them.
 
 
-The python script we used is:
+A simple python script we can use is:
 
 # Import the libraries we need
 import pandas as pd
